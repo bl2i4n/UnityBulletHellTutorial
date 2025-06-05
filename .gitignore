@@ -1,0 +1,3 @@
+# Ignore Unity Burst Runtime files
+Library/PackageCache/com.unity.burst/.Runtime/*
+
