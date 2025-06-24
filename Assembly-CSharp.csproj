@@ -66,6 +66,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/Player/Player Controls.cs" />
+    <Compile Include="Assets/Scripts/Inventory/InventorySlot.cs" />
+    <Compile Include="Assets/Scripts/Inventory/WeaponInfo.cs" />
     <Compile Include="Assets/Scripts/Player/ActiveWeapon.cs" />
     <Compile Include="Assets/Scripts/Enemies/EnemyPathfinding.cs" />
     <Compile Include="Assets/Scripts/Enemies/EnemyHealth.cs" />
